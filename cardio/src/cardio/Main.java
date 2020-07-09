@@ -1,14 +1,14 @@
 package cardio;
-/*THIS SOFTWARE IS MADED BY BATUHAN ﬁENO–LU
+/*THIS SOFTWARE IS MADED BY BATUHAN √ûENO√êLU
  * ALL RIGHTS IS NOT RESERVED ITS ATCULLY OPENSOURCE :D
  * IF YOU USE THIS FOR SOMETHING DO NOT EVER TRY TO JUDGE MY CODE
- * CUZ GUESS WHAT IT WILL HELP YOU TO DO SMT ASSHOLE
+ * CUZ GUESS WHAT IT MIGHT HELP YOU TO DO SMT
  * */
 
 import blackjack.BlackJack;
 
-public class EceninAm˝ {
+public class Main {
 	public static void main(String[] args) {
-		new BlackJack();//sizde ecenin am˝n˝n iÁinde blackjack oynamak istemezmisiniz ..:D
+		new BlackJack();//sizde ecenin am√Ωn√Ωn i√ßinde blackjack oynamak istemezmisiniz ..:D
 	}
 }
