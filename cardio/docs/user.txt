@@ -1,0 +1,4 @@
+hello,500
+aaa,9
+bbb,0
+ccc,500
